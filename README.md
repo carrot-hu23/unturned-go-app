@@ -15,6 +15,8 @@ unturned 未转变者 linux 开服面板
 ![模组列表](./docs/images/模组列表.png)
 ![订阅mod](./docs/images/订阅mod.png)
 ![房间设置](./docs/images/房间设置.png)
+![世界配置](./docs/images/世界配置.png)
+![创意工坊配置](./docs/images/创意工坊配置.png)
 ![系统设置](./docs/images/系统设置.png)
 
 ## 部署
